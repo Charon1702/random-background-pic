@@ -16,7 +16,7 @@ chmod +x ./background.sh
 
 You can also use `Crontab` to run scripts at every 5th minute for example
 ```
-*/1 * * * * /home/$USER/yourscript.sh
+*/5 * * * * /home/$USER/yourscript.sh
 ```
 
 More information at the links below
